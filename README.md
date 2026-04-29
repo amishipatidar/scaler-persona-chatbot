@@ -23,12 +23,10 @@
 - **Graceful Error Handling**: User-friendly error messages if the API key is missing or the API quota is exceeded.
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
 > _App is live and deployed on Vercel:_  
-> 👉 **[Live App Deployment](https://your-deployment-url-here.vercel.app)**
-
-*(Note: Replace with your actual Vercel link once deployed)*
+> **[Live App Deployment](https://your-deployment-url-here.vercel.app)**
 ---
 
 ## Getting Started (Local Development)
