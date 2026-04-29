@@ -24,8 +24,8 @@
 ---
 
 ## Live Demo
-*App is live and deployed on Vercel:*  
-**[Live App Deployment](https://your-deployment-url-here.vercel.app)**  
+App is live and deployed on Vercel: 
+[Live App Deployment](https://your-deployment-url-here.vercel.app)  
 ---
 
 ## Getting Started (Local Development)
