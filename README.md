@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Scaler Persona-Based AI Chatbot</h1>
+  <h1>🤖 Scaler Persona-Based AI Chatbot</h1>
   <p><strong>An interactive AI mentorship platform featuring Scaler Academy & InterviewBit leaders.</strong></p>
   
   [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
@@ -14,22 +14,27 @@
 
 ---
 
-## Features
+## ✨ Features
 
-- **Three Unique Personas**: Chat with **Anshuman Singh**, **Abhimanyu Saxena**, or **Kshitij Mishra**. Each has a highly specific system prompt defining their background, communication style, and constraints.
-- **Claude-Style Interactive Quizzes**: The AI is instructed via Structured JSON Output to dynamically generate pop-quizzes when asked. These render as a distinct, elevated UI component with immediate correct/incorrect color-coded feedback.
-- **Dynamic Suggestion Chips**: The AI dynamically generates natural follow-up options for every message, creating a seamless, click-driven conversational flow.
-- **Secure Backend**: The API key is stored securely in an environment variable and injected server-side via Next.js API Routes.
-- **Graceful Error Handling**: User-friendly error messages if the API key is missing or the API quota is exceeded.
+- **🗣️ Three Unique Personas**: Chat with **Anshuman Singh**, **Abhimanyu Saxena**, or **Kshitij Mishra**. Each has a highly specific system prompt defining their background, communication style, and constraints.
+- **🎯 Claude-Style Interactive Quizzes**: The AI is instructed via Structured JSON Output to dynamically generate pop-quizzes when asked. These render as a distinct, elevated UI component with immediate correct/incorrect color-coded feedback.
+- **⚡ Dynamic Suggestion Chips**: The AI dynamically generates natural follow-up options for every message, creating a seamless, click-driven conversational flow.
+- **🔒 Secure Backend**: The API key is stored securely in an environment variable and injected server-side via Next.js API Routes.
+- **🛡️ Graceful Error Handling**: User-friendly error messages if the API key is missing or the API quota is exceeded.
+- **🎨 Premium Design**: Dark-mode Vanilla CSS with glassmorphism, dynamic avatars, and subtle animations. Fully responsive across all devices.
+
 ---
 
-## Live Demo
+## 🔗 Live Demo
 
 > _App is live and deployed on Vercel:_  
-> **[Live App Deployment](https://scaler-persona-chatbot.vercel.app/)**
+> 👉 **[Live App Deployment](https://scaler-persona-chatbot.vercel.app/)**
+
+*(Note: Replace with your actual Vercel link once deployed)*
+
 ---
 
-## Getting Started (Local Development)
+## 🚀 Getting Started (Local Development)
 
 ### Prerequisites
 - **Node.js** (v18 or higher)
@@ -66,7 +71,7 @@
 
 ---
 
-## Repository Structure & Deliverables
+## 📂 Repository Structure & Deliverables
 
 | File/Directory | Description |
 |---|---|
@@ -78,7 +83,7 @@
 
 ---
 
-## Deployment Guide (Vercel)
+## ☁️ Deployment Guide (Vercel)
 
 This project is built with Next.js, making it trivial to deploy on Vercel:
 1. Push your code to your public GitHub repository.
