@@ -26,7 +26,7 @@
 ## Live Demo
 
 > _App is live and deployed on Vercel:_  
-> **[Live App Deployment](https://your-deployment-url-here.vercel.app)**
+> **[Live App Deployment](https://scaler-persona-chatbot.vercel.app/)**
 ---
 
 ## Getting Started (Local Development)
